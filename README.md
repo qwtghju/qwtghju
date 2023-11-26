@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @qwtghju
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m BENSON
+- 👀 I’m interested in CODING
+- 🌱 I’m currently learning CODING
+- 💞️ I’m looking to collaborate on CODING
+- 📫 How to reach me INSTAGRAN y.d.k_son
 
 <!---
 qwtghju/qwtghju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
